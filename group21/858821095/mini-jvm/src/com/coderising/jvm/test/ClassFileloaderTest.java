@@ -70,7 +70,6 @@ public class ClassFileloaderTest {
 		Assert.assertEquals("cafebabe", acctualValue);
 	}
     
-    
 	private String byteToHexString(byte[] codes ){
 		StringBuffer buffer = new StringBuffer();
 		for(int i=0;i<codes.length;i++){

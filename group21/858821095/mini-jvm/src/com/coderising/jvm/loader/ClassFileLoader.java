@@ -57,7 +57,6 @@ public class ClassFileLoader {
 			}
 			
 		}
-		
 		return sb.toString();
 	}
 
